@@ -1,2 +1,2 @@
 # Sagemaker Experiments
-Just pushing everthing I learn related to sagemaker
+Just pushing everything I learn related to sagemaker
